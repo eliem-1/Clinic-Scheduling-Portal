@@ -1,4 +1,4 @@
-markdown
+```
 # 🩺 Clinic Scheduling Portal
 
 A modern, decoupled full-stack appointment scheduling application built using an asynchronous **.NET Web API** backend and a responsive **React + TypeScript** frontend. The system features a custom time-slot matrix and real-time backend validation to prevent patient/practitioner double-booking conflicts.
